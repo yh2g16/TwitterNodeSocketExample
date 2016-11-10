@@ -10,10 +10,10 @@ function handler (req, res) {
 }
 
 var T = new Twit({
-    consumer_key:         'REQUIRED'
-  , consumer_secret:      'REQUIRED'
-  , access_token:         'REQUIRED'
-  , access_token_secret:  'REQUIRED'
+    consumer_key:         'fLNRWQyU4JA6JCh6VqRLAJ4wk'
+  , consumer_secret:      'rOIwrGksB6vzbRSWzjPCepRtOAi3zKmc9OHWMrKFCDv0In7ep5'
+  , access_token:         '1868755632-hPTK4Uc4nTta1E9mhjQXtSoVHWAXtZkIJJoxyCn'
+  , access_token_secret:  'mExDmIYWncVbFWnhXSxBG0IoDfESbrrlcqzT4bGoPSjWR'
 });
 
 //###################################
